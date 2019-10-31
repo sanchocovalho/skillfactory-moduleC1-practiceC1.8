@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: rgb(135, 110, 215);
+  font-family: 'Play', sans-serif;
+  font-weight: 400;
+  color: rgb(57, 20, 175);
+}
+
+p{
+  margin: 0;
+}
+ 
+.title {
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+ 
+.content-1,
+.content-2 {
+  display: block;
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+.message{
+  font-weight: 400;
+  font-size: 24px;
+  margin: 20px 0px 40px;
+}
